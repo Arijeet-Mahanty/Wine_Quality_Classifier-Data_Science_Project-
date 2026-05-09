@@ -22,3 +22,8 @@ Data Manipulation: pandas, numpy
 Machine Learning: scikit-learn (for SVM, Naive Bayes, and Random Forest implementations)
 
 Data Visualization: matplotlib, seaborn (for feature correlation heatmaps and distribution plots)
+
+
+# 📂 Repository Structure
+
+Data_Science_Major_Project.ipynb : Colab notebooks containing the EDA, data preprocessing, and model comparison steps.
