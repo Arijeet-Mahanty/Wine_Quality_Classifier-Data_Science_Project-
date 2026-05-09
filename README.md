@@ -26,4 +26,8 @@ Data Visualization: matplotlib, seaborn (for feature correlation heatmaps and di
 
 # 📂 Repository Structure
 
-Data_Science_Major_Project.ipynb : Colab notebooks containing the EDA, data preprocessing, and model comparison steps.
+Data_Science_Major_Project.ipynb : Colab notebook containing the EDA, data preprocessing, and model comparison steps.
+
+upload_b17b4ebe-b5ef-4168-b23e-759428717a8b.csv : The wine quality dataset.
+
+README.md: Project documentation.
