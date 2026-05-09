@@ -1,2 +1,3 @@
-# Wine_Quality_Classifier-Data_Science_Project-
-A Data Science Project analyzing wine data using Machine Learning. Compares SVM, Naive Bayes, and Random Forest models to predict wine quality, with Random Forest Regressor selected as the best performer.
+# Wine Quality Predictor 🍷📊
+This data science project explores the chemical properties of wine to predict its overall quality rating. By applying multiple Machine Learning algorithms, this repository demonstrates a complete workflow from exploratory data analysis (EDA) to model evaluation and selection.
+
