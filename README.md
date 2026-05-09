@@ -12,4 +12,13 @@ Support Vector Machine (SVM): Used to attempt finding a hyperplane that distinct
 
 Naive Bayes: A probabilistic approach tested for baseline classification performance.
 
-Random Forest Regressor (🏆 Best Performer): An ensemble learning method that successfully captured the complex, non-linear relationships between the chemical inputs and the final quality score.
+Random Forest Regressor : An ensemble learning method that successfully captured the complex, non-linear relationships between the chemical inputs and the final quality score.
+
+# 🛠️ Tech Stack & Libraries
+Language: Python 
+
+Data Manipulation: pandas, numpy
+
+Machine Learning: scikit-learn (for SVM, Naive Bayes, and Random Forest implementations)
+
+Data Visualization: matplotlib, seaborn (for feature correlation heatmaps and distribution plots)
