@@ -31,3 +31,19 @@ Data_Science_Major_Project.ipynb : Colab notebook containing the EDA, data prepr
 upload_b17b4ebe-b5ef-4168-b23e-759428717a8b.csv : The wine quality dataset.
 
 README.md: Project documentation.
+
+# 🚀 How to Run
+
+Clone the repository:
+
+  git clone https://github.com/your-username/Wine_Quality_Classifier-Data_Science_Project.git
+
+
+Navigate to the project directory and install required dependencies:
+
+  pip install pandas numpy scikit-learn matplotlib seaborn
+
+
+Open the Jupyter Notebook to view the analysis and model training:
+
+  jupyter notebook notebooks/wine_quality_analysis.ipynb
